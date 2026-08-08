@@ -1,8 +1,8 @@
 # MitoMission: Carbon Circuit
 
-MitoMission is a complete offline browser game for second-year medical biochemistry students. The player transports pyruvate into the mitochondrial matrix, completes the pyruvate dehydrogenase bridge reaction, guides one acetyl-CoA through all eight TCA-cycle reactions, manages four clinical/physiological events, and verifies the pathway in a four-part Final Gate.
+MitoMission is a complete offline browser game for second-year medical biochemistry students. The player transports pyruvate into the mitochondrial matrix, completes the pyruvate dehydrogenase bridge reaction, guides one acetyl-CoA through all eight TCA-cycle reactions, manages four clinical/physiological events, and verifies the pathway in a four stage Final Gate.
 
-The expected correct-path play time is approximately 8-12 minutes.
+The expected play time is approximately 8-12 minutes.
 
 ## Run the game
 
